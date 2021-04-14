@@ -1,3 +1,5 @@
+import React from "react";
+
 const WordCutter = (props) => {
   let inputtext = props.children;
   let wordlimit = props.limit;
