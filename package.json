@@ -1,0 +1,31 @@
+{
+  "name": "react-word-cutter",
+  "version": "1.0.0",
+  "description": "Simple way to trim text content as per your given limit",
+  "main": "src/WordCutter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahirmpatel/react-word-cutter.git"
+  },
+  "keywords": [
+    "react-word-cutter",
+    "react-text-cutter",
+    "word-limit",
+    "react-word-limit",
+    "text-cutter",
+    "word",
+    "limit",
+    "react",
+    "word",
+    "limit"
+  ],
+  "author": "sahirmpatel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahirmpatel/react-word-cutter/issues"
+  },
+  "homepage": "https://github.com/sahirmpatel/react-word-cutter#readme"
+}
